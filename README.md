@@ -1,2 +1,1 @@
-# espanso
-Common across all platforms
+Practise & Quick Experiments
