@@ -1,1 +1,1 @@
-Python, Git Practise & Quick Experiments
+Python, Git Quick Experiments
